@@ -124,7 +124,7 @@ python3 -m http.server 8000
 
   * 這是 Firebase 官方設計的運作方式，`firebaseConfig` 僅用於識別專案，真正保護資料的是 **Firestore 安全規則** 與 **已授權網域限制**。
 
-
+如有其他問題請諮詢：lliinn1106lin@gmail.com
 ## 📄 授權條款 (License)
 
 本專案與文件採用 **[創用 CC 姓名標示－非商業性－相同方式分享 4.0 國際授權條款 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant)** 釋出。
